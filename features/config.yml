@@ -1,0 +1,13 @@
+landingpageURL: https://txncdn.payubiz.in/login
+username: limeroaddev
+alias: qsepti
+password: LRAdmin$42
+
+
+newrelicloginurl: https://login.newrelic.com/login
+new_relic_username: vinod.sharma@limeroad.com
+new_relic_password: vin9413326578
+new_relic_error_url: https://rpm.newrelic.com/accounts/202209/applications/938975/traced_errors
+
+
+signupurl: https://www.limeroad.com/auth/login
