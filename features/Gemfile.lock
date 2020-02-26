@@ -90,7 +90,7 @@ GEM
     multipart-post (2.1.1)
     net-http-persistent (2.9.4)
     nio4r (2.3.1)
-    nokogiri (1.10.3)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     parallel (1.17.0)
     parallel_tests (2.29.1)
@@ -149,6 +149,7 @@ GEM
     test-unit (3.2.8)
       power_assert
     thor (0.20.3)
+    thread (0.2.2)
     thread_safe (0.3.6)
     timers (4.3.0)
     tzinfo (1.2.5)
@@ -187,6 +188,7 @@ DEPENDENCIES
   selenium-webdriver
   slack-ruby-client
   test-unit (~> 3.1, >= 3.1.8)
+  thread (~> 0.2.2)
   webdrivers (~> 4.0, >= 4.0.1)
   webshot
 
